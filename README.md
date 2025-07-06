@@ -6,4 +6,4 @@ Using the given data, I decided to answer which combinations of exit velocity, l
 - **Python 3** via **Jupyter Notebook**
 - `pandas` – for data manipulation  
 - `matplotlib` – for data visualization   
-- **Voila + Voici (similar to Flask)** and **Github Repo Pages** - for deployment of static web app from Python
+- **Voila + Voici** and **Github Repo Pages** - for deployment of static webapp from Python
